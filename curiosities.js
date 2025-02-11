@@ -1,0 +1,22 @@
+export const curiousFacts = [
+    "Honey never spoils—archaeologists have found edible honey in ancient Egyptian tombs.",
+    "Bananas are berries, but strawberries are not.",
+    "Octopuses have three hearts—two pump blood to the gills, and one to the rest of the body.",
+    "A day on Venus is longer than a year on Venus—it takes 243 Earth days to rotate once but only 225 Earth days to orbit the Sun.",
+    "Wombat poop is cube-shaped to prevent it from rolling away.",
+    "The Eiffel Tower can grow taller in summer due to thermal expansion—it expands by about 15cm.",
+    "Sharks existed before trees—they’ve been around for over 400 million years.",
+    "A group of flamingos is called a 'flamboyance.'",
+    "The heart of a blue whale is the size of a small car.",
+    "Pineapples take about two years to grow.",
+    "The shortest war in history lasted 38-45 minutes—between Zanzibar and England in 1896.",
+    "Cows have best friends and get stressed when separated.",
+    "The inventor of the Pringles can is buried in one—his ashes are stored in a Pringles container.",
+    "Sloths can hold their breath longer than dolphins—up to 40 minutes.",
+    "The dot over the letter 'i' is called a tittle.",
+    "A cloud can weigh over half a million kilos.",
+    "Peanuts are not nuts—they are legumes.",
+    "The smell of freshly cut grass is a plant distress call.",
+    "There are more stars in the universe than grains of sand on Earth.",
+    "The longest hiccuping spree supossedly lasted 68 years."
+];
